@@ -1,7 +1,7 @@
 {
-  "name": "vue-fullpage",
-  "version": "2.0.5",
-  "description": "a single page scroll plugin for vue.js ",
+  "name": "@springsheep/zp-fullpage",
+  "version": "2.0.6",
+  "description": "移动端单页面，滑入滑出滚屏",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
     "single",
     "page"
   ],
-  "author": "wendaosanshou",
+  "author": "zhangpeng",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wendaosanshou/vue-fullpage/issues"
